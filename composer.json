@@ -1,5 +1,5 @@
 {
-    "name": "php-mvc/project",
+    "name": "castellanos/php-mvc",
     "description": "A simple PHP MVC project",
     "type": "project",
     "require": {
