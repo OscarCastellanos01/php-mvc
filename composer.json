@@ -2,6 +2,12 @@
     "name": "castellanos/php-mvc",
     "description": "A simple PHP MVC project",
     "type": "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/OscarCastellanos01/php-mvc"
+        }
+    ],
     "require": {
         "php": ">=8.2"
     },
